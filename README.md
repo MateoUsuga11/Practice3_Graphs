@@ -21,7 +21,7 @@ visualizando los resultados tanto en tablas como en un grafo interactivo.
 ---
 
 ## 🖥️ Capturas
-CapturaGrafos.png
+`CapturaGrafos.png`
 
 ---
 
