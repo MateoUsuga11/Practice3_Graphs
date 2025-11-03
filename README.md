@@ -21,7 +21,8 @@ visualizando los resultados tanto en tablas como en un grafo interactivo.
 ---
 
 ## 🖥️ Capturas
-`CapturaGrafos.png`
+<img width="1603" height="1319" alt="CapturaGrafos" src="https://github.com/user-attachments/assets/67fa2b1c-145e-48f8-8a51-bff339f318a8" />
+
 
 ---
 
